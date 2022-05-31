@@ -10,9 +10,10 @@ Mingpian
 
    
 **Tools**   
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=Black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=White"/>    
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=White"/> <img src="https://img.shields.io/badge/ApacheCordova-E8E8E8?style=flat-square&logo=ApacheCordova&logoColor=black"/>   
-<img src="https://img.shields.io/badge/VisualStudio-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=White"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=000"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=fff"/>    
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=fff"/> <img src="https://img.shields.io/badge/ApacheCordova-E8E8E8?style=flat-square&logo=ApacheCordova&logoColor=000"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=fff"/> 
+<img src="https://img.shields.io/badge/VisualStudio-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=fff"/> 
    
 
 #### jQuery Mobile project Mingpian
